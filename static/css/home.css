@@ -1,0 +1,49 @@
+body{
+    background-color:rgba(247, 238, 238, 0.897);
+}
+div{
+    border-radius: 5px;
+    background-color : rgb(221, 208, 208);
+    height: 500px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+input[type="text"]{
+    padding: 1em;
+    margin: 1em;
+    border: 1px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid pink;
+    margin-right: auto;
+    border-style: solid;
+    border-color: rgb(150, 133, 133);
+    border-radius: 20px;
+}
+
+input[type="submit"]{
+    width: 100px;
+    height: 50px;
+    border: 1px;
+    display: block;
+    margin-left: 470px;
+    border-radius: 15px;
+}
+
+.quote{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 50px;
+   
+}
+
+.title{
+    margin-top: 20px;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
